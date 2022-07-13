@@ -1,2 +1,4 @@
 # eventhub-function
-Azure function consumer for event hub java example
+Demo for eventhub consumer as azure function written in java
+
+To Run this application mvn clean package azure-function:run
